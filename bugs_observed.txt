@@ -1,0 +1,4 @@
+1. Upon visiting the site and pressing the "START" button, the users current score is displayed incorrectly, it is instead todays date (month/day/year)
+2. Upon selecting the first case "Making a case against Kevin", then clicking the "JUDGE THIS" button, and finally selecting either "Guilty" or "Not guilty" and then voting, the modal pop-up will suggest you selected the opposite option of what you actually selected.
+    e.g if selecting "Guilty" and then voting, the modal suggests you voted "Not guilty".
+3. Upon visiting the site and pressing the "START" button and selecting the second case "Who is to blame?", this navigates to the wrong case - case 1, as if the user had selected "Making a case against Kevin", instead of case 2.
